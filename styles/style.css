@@ -1,0 +1,36 @@
+/* Textfile von google fonts */
+
+html {
+  background: #ebebeb;
+  font-size: 16px; /* px bedeutet 'pixels': die Schriftgröße wird auf 10 Pixel gesetzt  */
+  font-family: "Roboto Mono", monospace;
+  
+}
+
+body {
+  width: 600px;
+  margin: 120px auto;
+  padding: 0 20px 20px 20px;
+  /* border: 5px solid black; */
+}
+
+h1 {
+  font-size: 60px;
+  text-align: left;
+  margin: 0;
+  padding: 20px 0;    
+  color: #fac412;
+  text-shadow: 5px 5px 0px black;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+img {
+  display: block;
+  margin: 120px auto;
+}
